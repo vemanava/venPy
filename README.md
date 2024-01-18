@@ -1,2 +1,2 @@
 # venPy
-Venkats Pyhton
+Venkat's Python
